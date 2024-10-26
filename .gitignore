@@ -1,0 +1,33 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Other
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
